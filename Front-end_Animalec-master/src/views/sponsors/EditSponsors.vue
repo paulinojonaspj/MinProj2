@@ -1,7 +1,7 @@
 <template>
   <section class="page-section">
      <b-container>
-      <HeaderPage title="Editar Utilizador"/>
+      <HeaderPage title="Editar Sponsor"/>
    
       <!--FORM-->
       <b-row>
